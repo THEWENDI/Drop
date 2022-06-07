@@ -1,7 +1,7 @@
 # DROP
 
 MERN-based E-commerce website for users to view and purchase hype/limited quantity products.
-<!-- <br> -->
+<br>
 <br>
 Hype/limited products such as sneakers, artwork, and music has become a big part of young consumers to purchase.
 Drop is a website where users can only purchase the item in a specific time and one at a time. 
