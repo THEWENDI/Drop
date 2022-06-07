@@ -2,7 +2,7 @@
 
 MERN-based E-commerce website for users to view and purchase hype/limited quantity products.
 <br>
-<br>
+<!-- <br> -->
 Hype/limited products such as sneakers, artwork, and music has become a big part of young consumers to purchase.
 Drop is a website where users can only purchase the item in a specific time and one at a time. 
 There will be a countdown timer to show  the next product  dropping time when there’s no product available. With limited purchase of time and product, users will be more interested and desperated to the selling product. 
