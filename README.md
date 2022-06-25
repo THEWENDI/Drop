@@ -13,4 +13,4 @@ Integrated Stripe API for users to purchase products by credit card and  for sel
 <br>
 Developed back-end with Express framework and MongoDB for their flexible structure and ease of data access.
 
-![Dashboard](https://github.com/THEWENDI/Drop/blob/60396b5ad6fd6503952ef629367d069df8c017e3/Drop.png)
+![Dashboard](https://github.com/THEWENDI/Drop/blob/60396b5ad6fd6503952ef629367d069df8c017e3/Drop.png)!
